@@ -202,7 +202,13 @@
       const mark = node("span", markIndex===5 ? "FTTH" : "", "discover-wordmark" + (markIndex>=0 ? " discover-brand-"+markIndex : ""));
       mark.setAttribute("aria-hidden","true");
       if (item.id==="video-6") {
-        const logo = node("img"); logo.src="/assets/tammi-chat-logo.png"; logo.alt=""; mark.append(logo);
+        mark.classList.add("discover-brand-6");
+        const logo = node("img");
+        logo.src="/assets/tammi-chat-logo.png";
+        logo.width=32;
+        logo.height=32;
+        logo.alt="";
+        mark.append(logo);
       }
       button.append(node("strong",String(i+1).padStart(2,"0")+". "+item.title),mark);
       button.onclick = () => showVideo(i);
