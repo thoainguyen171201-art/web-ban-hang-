@@ -87,6 +87,9 @@ function renderFtth($:Document, plans:Plan[]) {
         .append($("<span class='ftth-mobile-label' aria-hidden='true'>").text(labels[index+1]))
         .append($("<span>").text(value))));
       if(plan.details.length)row.find("th").append($("<small class='thoai-ftth-details'>").text(plan.details.filter(Boolean).join(" · ")));
+      const amount=row.children("td").last();
+      if(plan.vatNote)amount.append($("<small class='thoai-ftth-details'>").text(plan.vatNote));
+      if(plan.term)amount.append($("<small class='thoai-ftth-details'>").text(plan.term));
       row.append($("<td>").append(quoteButton($,plan)));
       body.append(row);
     }
@@ -94,6 +97,14 @@ function renderFtth($:Document, plans:Plan[]) {
     if(meta.caption)section.append($("<p class='ftth-offer'>").text(meta.caption));
     target.append(section);
   }
+}
+
+function planDetail(text:string,plan:Plan,service:string) {
+  if(text.startsWith("Thời gian sử dụng:"))return "Thời gian sử dụng: "+(plan.term||"Liên hệ");
+  if(service==="invoice"&&/^(Giá gói cước|Tổng giá gói):/.test(text))return text.split(":")[0]+": "+priceText(plan.price);
+  if(service==="invoice"&&/^Chữ ký số [0-9]+ tháng$/.test(text))return plan.term.startsWith("Chữ ký số ")?plan.term:"Chữ ký số "+(plan.term||"Liên hệ");
+  if(service==="ca"&&text.startsWith("Loại đăng ký:"))return "Loại đăng ký: "+("group" in plan&&plan.group==="renew"?"Gia hạn":"Đăng ký mới");
+  return text;
 }
 
 function renderPricing($:Document, service:Service, plans:Plan[]) {
@@ -116,7 +127,7 @@ function renderPricing($:Document, service:Service, plans:Plan[]) {
       card.addClass("ca-price-pack").append($("<p class='ca-price-amount'>").text(priceText(plan.price)),$("<small class='price-vat-note'>").text(plan.vatNote));
       if(plan.details[0])card.append($("<p class='ca-price-description'>").text(plan.details[0]));
       const lines=$("<ul>");
-      plan.details.slice(1).filter(Boolean).forEach(text=>lines.append($("<li>").text(text)));
+      plan.details.slice(1).filter(Boolean).forEach(text=>lines.append($("<li>").text(planDetail(text,plan,service))));
       card.append(lines,quoteButton($,plan));
     } else {
       const prefix={contract:"vc",invoice:"si",bhxh:"bh"}[service];
@@ -129,7 +140,8 @@ function renderPricing($:Document, service:Service, plans:Plan[]) {
         card.append(previous);
       }
       const details=$("<div>").addClass(prefix+"-description");
-      plan.details.filter(Boolean).forEach(text=>details.append($("<p>").text(text)));
+      plan.details.filter(Boolean).forEach(text=>details.append($("<p>").text(planDetail(text,plan,service))));
+      if(plan.term&&!plan.details.some(line=>line.includes(plan.term)||line.startsWith("Thời gian sử dụng:")||/^Chữ ký số [0-9]+ tháng$/.test(line)))details.append($("<p>").text("Thời hạn: "+plan.term));
       card.append(details,quoteButton($,plan,prefix+"-register"));
     }
     target.append(card);
