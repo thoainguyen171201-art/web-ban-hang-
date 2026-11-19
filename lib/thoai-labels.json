@@ -1,0 +1,127 @@
+{
+  "pageLabels": {
+    "index": {
+      "title": "Trang chủ",
+      "sections": {
+        "header": {
+          "label": "Menu",
+          "fields": {
+            "text-1": "Nội dung · Viettel Đồng Nai",
+            "text-2": "Nội dung · Giải pháp số cho hộ kinh doanh và doanh nghiệp",
+            "text-3": "Nhãn nút · Giải pháp",
+            "text-4": "Nhãn nút · Trải nghiệm",
+            "text-5": "Nhãn nút · Nhận tư vấn ngay"
+          }
+        },
+        "hero": {
+          "label": "Giới thiệu",
+          "fields": {
+            "text-1": "Nội dung · Tư vấn trực tiếp qua điện thoại hoặc chat, gọi video qua ứng dụng TA",
+            "text-2": "Tiêu đề · Bạn chỉ cần chọn giải pháp.",
+            "text-3": "Nội dung · Việc còn lại để Viettel lo.",
+            "text-4": "Nội dung · Quản lý bán hàng, chữ ký số, hợp đồng điện tử, hóa đơn điện tử, kê k",
+            "text-5": "Nhãn nút · Nhận tư vấn ngay",
+            "text-6": "Nhãn nút · Chat với chuyên viên qua",
+            "text-7": "Nội dung · TAMMI",
+            "text-8": "Nội dung · Từ quản lý bán hàng đến internet Wifi",
+            "text-9": "Nội dung · 6 giải pháp",
+            "text-10": "Nội dung · Đi cùng bạn từ lúc chọn đến lúc dùng",
+            "text-11": "Nội dung · 1 chuyên viên",
+            "text-12": "Nội dung · Tư vấn trực tiếp, không cần đến cửa hàng",
+            "text-13": "Nội dung · Gọi video",
+            "text-14": "Nội dung · Tư vấn qua TAMMI",
+            "text-15": "Nội dung · Chào anh/chị! Em là Hồng Thoại. Anh/chị đang cần hỗ trợ dịch vụ gì, "
+          }
+        },
+        "solutions": {
+          "label": "Hệ sinh thái giải pháp",
+          "fields": {
+            "text-1": "Nội dung · Hệ sinh thái giải pháp",
+            "text-2": "Tiêu đề · Mỗi nhu cầu.",
+            "text-3": "Tiêu đề · Một bước tiến số.",
+            "text-4": "Nội dung · Chọn sản phẩm bạn quan tâm. Chuyên viên sẽ tư vấn tính năng, chi phí"
+          }
+        },
+        "discover": {
+          "label": "Góc khám phá",
+          "fields": {
+            "text-1": "Nội dung · GÓC KHÁM PHÁ",
+            "text-2": "Tiêu đề · Video giới thiệu các giải pháp",
+            "text-3": "Nội dung · Chọn từng giải pháp để xem video giới thiệu hoặc hướng dẫn sử dụng p"
+          }
+        },
+        "register": {
+          "label": "Đăng ký tư vấn",
+          "fields": {
+            "text-1": "Nội dung · Kết nối chuyên viên",
+            "text-2": "Tiêu đề · Nói với chúng tôi bạn đang cần gì.",
+            "text-3": "Tiêu đề · Chuyên viên sẽ gọi lại cho bạn.",
+            "text-4": "Nội dung · Để lại số điện thoại, chuyên viên Viettel Đồng Nai sẽ liên hệ tư vấn",
+            "text-5": "Nội dung · Kết nối ngay để được tư vấn",
+            "text-6": "Nội dung · Cam kết:",
+            "text-7": "Nội dung · Phản hồi trong giờ làm việc, tư vấn hoàn toàn miễn phí.",
+            "text-8": "Nội dung · Quét mã để chat hoặc gọi video với chuyên viên qua TAMMI",
+            "text-9": "Tiêu đề · Đăng ký tư vấn",
+            "text-10": "Nội dung · Họ và tên *",
+            "text-11": "Nội dung · Số điện thoại *",
+            "text-12": "Nội dung · Email nhận xác nhận *",
+            "text-13": "Nội dung · Tên doanh nghiệp",
+            "text-14": "Nội dung · Sản phẩm quan tâm *",
+            "text-15": "Nội dung · Nhu cầu cần hỗ trợ",
+            "text-16": "Gợi ý nhập · Ví dụ: Tôi cần quản lý bán hàng cho 2 cửa hàng...",
+            "text-17": "Nội dung · Tôi đồng ý để chuyên viên sử dụng thông tin trên nhằm liên hệ tư vấn",
+            "text-18": "Nội dung · Sau khi gửi yêu cầu, mã đăng ký sẽ hiển thị và hệ thống sẽ gửi email",
+            "text-19": "Nhãn nút · Nhận tư vấn ngay"
+          }
+        },
+        "footer": {
+          "label": "Chân trang",
+          "fields": {
+            "text-1": "Tiêu đề · VIETTEL ĐỒNG NAI"
+          }
+        }
+      }
+    }
+  },
+  "groups": {
+    "tendoo": {
+      "packages": "Gói Tendoo",
+      "devices": "Thiết bị"
+    },
+    "ca": {
+      "new": "Cấp mới",
+      "renew": "Gia hạn"
+    },
+    "contract": {
+      "trial": "Dùng thử",
+      "paid": "Hợp đồng kèm chứng thực"
+    },
+    "invoice": {
+      "single": "Đơn lẻ",
+      "new": "Combo cấp mới CA",
+      "renew": "Combo gia hạn CA"
+    },
+    "bhxh": {
+      "new": "Cấp mới",
+      "renew": "Gia hạn",
+      "trial": "Dùng thử",
+      "combo": "Combo CA và V-BHXH"
+    },
+    "ftth": {
+      "static": "Bảng giá IP tĩnh",
+      "dynamic": "Bảng giá IP động"
+    }
+  },
+  "ftthHeaders": [
+    {
+      "heading": "Bảng giá doanh nghiệp dùng IP tĩnh",
+      "caption": "Ghi chú : Modem Wi‑Fi 6, phí hòa mạng 300.000 đ. Đóng cước trước 12 tháng tặng thêm 1 tháng.",
+      "option": "Loại IP"
+    },
+    {
+      "heading": "Bảng giá doanh nghiệp dùng IP động",
+      "caption": "Ghi chú : Modem Wi‑Fi 6, phí hòa mạng 300.000 đ. Đóng cước trước 12 tháng tặng thêm 1 tháng.",
+      "option": "Số bộ Mesh Wi‑Fi"
+    }
+  ]
+}

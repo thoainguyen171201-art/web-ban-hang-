@@ -1,0 +1,32 @@
+{
+  "name": "viettel-nguyen-thi-hong-thoai",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "db:init": "node --experimental-strip-types --env-file-if-exists=.env.local scripts/init-db.mjs",
+    "admin:hash": "node scripts/hash-password.mjs"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "1.2.1",
+    "@vercel/blob": "2.9.0",
+    "cheerio": "^1.1.2",
+    "next": "16.3.4",
+    "react": "19.2.6",
+    "react-dom": "19.2.6",
+    "write-excel-file": "4.1.1",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "@types/node": "22.19.19",
+    "@types/react": "19.2.14",
+    "@types/react-dom": "19.2.3",
+    "typescript": "5.9.3"
+  }
+}

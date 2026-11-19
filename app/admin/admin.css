@@ -1,0 +1,47 @@
+.vui-admin { min-height:100vh; color:#29252b; background:#f7f5f5; font-family:Sarabun,Arial,sans-serif; }
+.vui-admin p { color:inherit; }
+.vui-admin h1 { margin:0 0 1rem; font-size:clamp(1.55rem,4vw,2.1rem); color:#29252b; }
+.vui-admin h2 { margin:0; font-size:1.1rem; }
+.vui-admin a { color:#bd0028; text-decoration:underline; }
+.vui-admin button { min-height:40px; padding:.45rem .8rem; background:#c9002e; color:white; border:1px solid transparent; border-radius:8px; font-weight:700; cursor:pointer; }
+.vui-admin button:disabled { opacity:.55; cursor:default; }
+.vui-admin .vui-secondary { background:white; color:#29252b; border-color:#ded6d9; }
+.vui-admin .vui-danger { color:#b20028; }
+.vui-admin :is(input,select,textarea) { box-sizing:border-box; width:100%; min-width:0; min-height:41px; padding:.5rem .65rem; border:1px solid #c8bdc0; border-radius:7px; background:white; color:#29252b; }
+.vui-admin input[type=checkbox] { width:1.1rem; min-height:1.1rem; accent-color:#c9002e; }
+.vui-admin :focus-visible { outline:2px solid #c9002e; outline-offset:2px; }
+.vui-header { display:flex; justify-content:space-between; align-items:center; gap:1rem; flex-wrap:wrap; background:#fff; border-bottom:1px solid #e6dfe0; padding:1rem clamp(1rem,4vw,2.5rem); }
+.vui-header strong { color:#c9002e; display:block; font-size:1.15rem; }
+.vui-header span, .vui-admin small { color:#675b61; }
+.vui-layout { display:grid; grid-template-columns:200px minmax(0,1fr); max-width:1350px; margin:auto; }
+.vui-layout nav { display:flex; flex-direction:column; padding:1rem; gap:.25rem; }
+.vui-layout .vui-nav { background:transparent; color:#29252b; text-align:left; flex-shrink:0; }
+.vui-layout .vui-nav[aria-current] { background:#ffe7ed; color:#a30024; }
+.vui-main { padding:1.25rem clamp(.8rem,3vw,2rem) 2.5rem; min-width:0; }
+.vui-panel, .vui-row-editor { padding:clamp(.8rem,3vw,1.4rem); background:white; border:1px solid #e3dadd; border-radius:12px; }
+.vui-row-editor { margin-block:1rem; background:#fcfafa; }
+.vui-editor { min-width:0; padding:0; margin:0; border:0; }
+.vui-fields { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:.8rem; margin-block:.8rem; }
+.vui-field { display:grid; gap:.25rem; font-weight:700; min-width:0; }
+.vui-check { display:flex; align-items:center; gap:.45rem; min-height:40px; }
+.vui-wide, .vui-image { grid-column:1/-1; }
+.vui-image img { width:auto; max-width:min(100%,200px); height:auto; max-height:110px; object-fit:contain; background:#fbf7f8; border:1px solid #e6dfe0; }
+.vui-image input[type=file] { width:auto; max-width:100%; }
+.vui-picker { width:min(100%,22rem); margin-bottom:1rem; }
+.vui-toolbar, .vui-actions, .vui-save { display:flex; align-items:center; gap:.55rem; flex-wrap:wrap; }
+.vui-toolbar { justify-content:space-between; }
+.vui-save { border-top:1px solid #e4dadd; padding-top:1rem; margin-top:1rem; }
+.vui-list, .vui-leads { margin:1rem 0 0; padding:0; list-style:none; }
+.vui-list li, .vui-leads li { display:flex; justify-content:space-between; gap:1rem; flex-wrap:wrap; align-items:center; padding:.65rem 0; border-bottom:1px solid #e4dadd; }
+.vui-leads li { align-items:flex-start; }
+.vui-leads li > div { flex:1 1 16rem; overflow-wrap:anywhere; }
+.vui-leads p { margin-block:.25rem; }
+.vui-login { display:grid; place-items:center; padding:1rem; }
+.vui-login form { width:min(100%,430px); display:grid; gap:.85rem; }
+.vui-toast { position:fixed; z-index:50; top:1rem; right:1rem; max-width:min(24rem,calc(100vw - 2rem)); padding:.75rem 1rem; margin:0; border:1px solid #e0d5d9; border-left:4px solid #c9002e; border-radius:9px; background:white; box-shadow:0 8px 25px #20101524; pointer-events:none; }
+.vui-toast:empty { opacity:0; }
+.vui-toast.vui-toast-error { background:#fff0f4; color:#9f0024; }
+@media(max-width:740px) { .vui-layout{display:block}.vui-layout nav{flex-direction:row;overflow:auto;border-bottom:1px solid #e6dfe0}.vui-fields{grid-template-columns:1fr} }
+
+.vui-lead-filters{display:flex;flex-wrap:wrap;align-items:flex-end;gap:12px;margin-bottom:18px}
+.vui-lead-filters>.vui-field{flex:1 1 132px;max-width:210px;min-width:0}

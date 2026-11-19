@@ -1,0 +1,17 @@
+.thoai-qr-trigger{appearance:none;border:0;background:none;padding:0;cursor:pointer;max-width:100%}
+dialog.thoai-qr{width:min(440px,calc(100vw - 24px));max-height:calc(100dvh - 24px);border:0;border-radius:16px;padding:0;background:white;color:#222737}
+.thoai-qr::backdrop{background:#17242e99}
+.thoai-qr>div{position:relative;text-align:center;padding:24px 18px 18px}
+.thoai-qr h2{margin:0 32px 8px;font-size:clamp(20px,5vw,26px)}
+.thoai-qr>div>img{display:block;max-width:100%;max-height:min(56dvh,480px);height:auto;margin:12px auto;object-fit:contain}
+.thoai-qr-close{position:absolute;top:8px;right:8px}
+.thoai-ftth-details{display:block;white-space:normal;font-weight:400}
+.thoai-selected-quote{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px;margin-block:10px}
+.thoai-detail{max-width:900px;padding-block:32px}
+.thoai-detail h1{font-size:clamp(32px,6vw,58px);overflow-wrap:anywhere}
+.thoai-detail-image{display:block;max-width:100%;max-height:420px;margin-block:24px;border-radius:14px}
+.thoai-detail-copy{white-space:pre-line}
+.thoai-detail-plans{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,240px),1fr));gap:14px}
+.thoai-detail-plans article{background:white;border:1px solid #eadde0;border-radius:10px;padding:16px}
+
+[data-price-service] [hidden]{display:none!important}

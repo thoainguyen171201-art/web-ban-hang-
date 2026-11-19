@@ -1,0 +1,29 @@
+#ftthPricing{position:fixed;inset:0;box-sizing:border-box;width:100%;height:100dvh;max-width:none;max-height:none;margin:0;padding:0;border:0;border-radius:0;background:#fff;color:#20212b;overflow:auto;overscroll-behavior:contain}
+body:has(#ftthPricing[open]){overflow:hidden}
+#ftthPricing .ftth-price-header{position:sticky;top:0;z-index:2;display:flex;justify-content:space-between;align-items:center;gap:12px;padding:12px clamp(14px,4vw,48px);border-bottom:1px solid #ead8de;background:#fff}
+#ftthPricing h2{margin:0;font-size:clamp(18px,3vw,28px);line-height:1.25}
+#ftthPricing .ftth-price-body{width:min(1120px,calc(100% - 28px));margin:auto;padding:18px 0 32px}
+#ftthPricing .ftth-price-section{padding:16px 0;background:transparent}
+#ftthPricing h3{margin:0 0 12px;font-size:clamp(18px,3vw,23px)}
+#ftthPricing .ftth-table-scroll{overflow-x:auto;border:1px solid #ead8de;border-radius:8px}
+#ftthPricing table{width:100%;min-width:580px;border-collapse:collapse;text-align:left}
+#ftthPricing th,#ftthPricing td{padding:10px;border-bottom:1px solid #ead8de}
+#ftthPricing thead th{background:#c90030;color:#fff}
+#ftthPricing tr:nth-child(even){background:#fff6f8}
+#ftthPricing .ftth-rate{color:#c90030;white-space:nowrap;font-weight:800}
+#ftthPricing .ftth-offer{margin:10px 0 0;color:#4e5361}
+#ftthPricing button[data-plan]{background:#c90030;border:0;border-radius:7px;color:#fff;min-height:44px;padding:8px 12px;font:inherit;font-weight:700;white-space:nowrap;cursor:pointer}
+#ftthPricing a{color:#b5002c;text-decoration:underline}
+
+#ftthPricing .ftth-mobile-label{display:none}
+@media(max-width:720px){
+ #ftthPricing .ftth-table-scroll{overflow:visible;border:0}
+ #ftthPricing table,#ftthPricing tbody{display:block;min-width:0}
+ #ftthPricing thead{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+ #ftthPricing tbody tr{display:block;margin-bottom:12px;border:1px solid #ead8de;border-radius:8px;overflow:hidden}
+ #ftthPricing tbody th{display:block;background:#c90030;color:#fff;overflow-wrap:anywhere}
+ #ftthPricing tbody td{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:12px;align-items:center;text-align:right}
+ #ftthPricing .ftth-mobile-label{display:block;color:#4e5361;font-weight:500;text-align:left;white-space:normal}
+ #ftthPricing tbody td:last-child{display:block;border:0}
+ #ftthPricing button[data-plan]{width:100%}
+}

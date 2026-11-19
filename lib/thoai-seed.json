@@ -1,0 +1,2858 @@
+{
+  "contact": {
+    "name": "Nguyễn Thị Hồng Thoại",
+    "role": "Chuyên viên tư vấn giải pháp số cho doanh nghiệp",
+    "hotline": "0374 477 921",
+    "address": "2047 Nguyễn Ái Quốc, Khu phố Trung Dũng, phường Trấn Biên, thành phố Đồng Nai",
+    "publicEmail": "thoainth1@viettel.com.vn",
+    "email": "thoainth1@viettel.com.vn",
+    "portrait": "/assets/nguyen-thi-hong-thoai-van-phong.jpg",
+    "qr": "/assets/tammi.jpg",
+    "storePhoto": "/assets/thoai-tai-quay-viettel.png",
+    "ticker": "Viettel Đồng Nai chuyên cung cấp các sản phẩm, dịch vụ: phần mềm quản lý bán hàng Tendoo, chữ ký số Viettel-CA, hợp đồng điện tử, hóa đơn điện tử, phần mềm kê khai bảo hiểm xã hội, internet tốc độ cao, truyền hình TV360, Home Camera, SIM data 5G, SIM số đẹp Viettel, hướng dẫn cài đặt và sử dụng ứng dụng TAMMI của Viettel."
+  },
+  "pageContent": {
+    "index": {
+      "header": {
+        "text-1": "Viettel Đồng Nai",
+        "text-2": "Giải pháp số cho hộ kinh doanh và doanh nghiệp",
+        "text-3": "Giải pháp",
+        "text-4": "Trải nghiệm",
+        "text-5": "Nhận tư vấn ngay"
+      },
+      "hero": {
+        "text-1": "Tư vấn trực tiếp qua điện thoại hoặc chat, gọi video qua ứng dụng TAMMI",
+        "text-2": "Bạn chỉ cần chọn giải pháp.",
+        "text-3": "Việc còn lại để Viettel lo.",
+        "text-4": "Quản lý bán hàng, chữ ký số, hợp đồng điện tử, hóa đơn điện tử, kê khai BHXH, internet Wifi: chuyên viên Viettel Đồng Nai tư vấn và hướng dẫn bạn dùng đến khi thành thạo.",
+        "text-5": "Nhận tư vấn ngay",
+        "text-6": "Chat với chuyên viên qua",
+        "text-7": "TAMMI",
+        "text-8": "Từ quản lý bán hàng đến internet Wifi",
+        "text-9": "6 giải pháp",
+        "text-10": "Đi cùng bạn từ lúc chọn đến lúc dùng",
+        "text-11": "1 chuyên viên",
+        "text-12": "Tư vấn trực tiếp, không cần đến cửa hàng",
+        "text-13": "Gọi video",
+        "text-14": "Tư vấn qua TAMMI",
+        "text-15": "Chào anh/chị! Em là Hồng Thoại. Anh/chị đang cần hỗ trợ dịch vụ gì, em tư vấn ngay ạ."
+      },
+      "solutions": {
+        "text-1": "Hệ sinh thái giải pháp",
+        "text-2": "Mỗi nhu cầu.",
+        "text-3": "Một bước tiến số.",
+        "text-4": "Chọn sản phẩm bạn quan tâm. Chuyên viên sẽ tư vấn tính năng, chi phí và hướng dẫn triển khai phù hợp."
+      },
+      "discover": {
+        "text-1": "GÓC KHÁM PHÁ",
+        "text-2": "Video giới thiệu các giải pháp",
+        "text-3": "Chọn từng giải pháp để xem video giới thiệu hoặc hướng dẫn sử dụng phù hợp."
+      },
+      "register": {
+        "text-1": "Kết nối chuyên viên",
+        "text-2": "Nói với chúng tôi bạn đang cần gì.",
+        "text-3": "Chuyên viên sẽ gọi lại cho bạn.",
+        "text-4": "Để lại số điện thoại, chuyên viên Viettel Đồng Nai sẽ liên hệ tư vấn đúng nhu cầu của bạn. Không ràng buộc, không phải đến cửa hàng.",
+        "text-5": "Kết nối ngay để được tư vấn",
+        "text-6": "Cam kết:",
+        "text-7": "Phản hồi trong giờ làm việc, tư vấn hoàn toàn miễn phí.",
+        "text-8": "Quét mã để chat hoặc gọi video với chuyên viên qua TAMMI",
+        "text-9": "Đăng ký tư vấn",
+        "text-10": "Họ và tên *",
+        "text-11": "Số điện thoại *",
+        "text-12": "Email nhận xác nhận *",
+        "text-13": "Tên doanh nghiệp",
+        "text-14": "Sản phẩm quan tâm *",
+        "text-15": "Nhu cầu cần hỗ trợ",
+        "text-16": "Ví dụ: Tôi cần quản lý bán hàng cho 2 cửa hàng...",
+        "text-17": "Tôi đồng ý để chuyên viên sử dụng thông tin trên nhằm liên hệ tư vấn và gửi email xác nhận đăng ký.",
+        "text-18": "Sau khi gửi yêu cầu, mã đăng ký sẽ hiển thị và hệ thống sẽ gửi email xác nhận.",
+        "text-19": "Nhận tư vấn ngay"
+      },
+      "footer": {
+        "text-1": "VIETTEL ĐỒNG NAI"
+      }
+    }
+  },
+  "serviceCatalog": [
+    {
+      "id": "tendoo",
+      "enabled": true,
+      "name": "Tendoo quản lý bán hàng",
+      "slug": "tendoo",
+      "category": "01. TENDOO – QUẢN LÝ BÁN HÀNG",
+      "detailTitle": "Bán hàng gọn, sổ sách rõ.",
+      "description": "Quản lý đơn hàng, kho và doanh thu trên một nơi, để bạn biết hôm nay lời hay lỗ mà không cần ngồi ghi chép.",
+      "points": [
+        "Quản lý hàng hóa và tồn kho",
+        "Theo dõi bán hàng, doanh thu",
+        "Quản lý thông tin khách hàng"
+      ],
+      "image": "/assets/tendoo-quan-ly-ban-hang.png",
+      "official": "",
+      "detailIntro": "",
+      "detailContent": ""
+    },
+    {
+      "id": "ca",
+      "enabled": true,
+      "name": "Chữ ký số",
+      "slug": "ca",
+      "category": "02. VIETTEL-CA – CHỮ KÝ SỐ",
+      "detailTitle": "Ký từ xa, không cần gặp mặt.",
+      "description": "Ký tờ khai, hồ sơ thuế và giao dịch điện tử ngay tại văn phòng, tiết kiệm thời gian đi lại.",
+      "points": [
+        "Ký số tài liệu điện tử",
+        "Phục vụ giao dịch điện tử",
+        "Tư vấn đăng ký và sử dụng"
+      ],
+      "image": "/assets/chu-ky-so-viettel-ca-mysign.png",
+      "official": "",
+      "detailIntro": "",
+      "detailContent": ""
+    },
+    {
+      "id": "contract",
+      "enabled": true,
+      "name": "Hợp đồng điện tử",
+      "slug": "contract",
+      "category": "03. V-CONTRACT – HỢP ĐỒNG ĐIỆN TỬ",
+      "detailTitle": "Ký hợp đồng trong ngày, không cần in giấy.",
+      "description": "Soạn, gửi và ký hợp đồng trực tuyến, lưu trữ gọn gàng và dễ tìm lại khi cần.",
+      "points": [
+        "Khởi tạo và ký trực tuyến",
+        "Quản lý hợp đồng tập trung",
+        "Tra cứu hồ sơ thuận tiện"
+      ],
+      "image": "/assets/hop-dong-dien-tu-vcontract.png",
+      "official": "",
+      "detailIntro": "",
+      "detailContent": ""
+    },
+    {
+      "id": "invoice",
+      "enabled": true,
+      "name": "Hóa đơn điện tử",
+      "slug": "invoice",
+      "category": "04. S-INVOICE – HÓA ĐƠN ĐIỆN TỬ",
+      "detailTitle": "Xuất hóa đơn đúng quy định, nhanh gọn.",
+      "description": "Lập và gửi hóa đơn cho khách chỉ trong vài thao tác, hạn chế sai sót và không lo thất lạc.",
+      "points": [
+        "Lập và phát hành hóa đơn",
+        "Tra cứu, quản lý hóa đơn",
+        "Tư vấn quy trình sử dụng"
+      ],
+      "image": "/assets/hoa-don-dien-tu-sinvoice.png",
+      "official": "",
+      "detailIntro": "",
+      "detailContent": ""
+    },
+    {
+      "id": "bhxh",
+      "enabled": true,
+      "name": "Phần mềm kê khai BHXH",
+      "slug": "bhxh",
+      "category": "05. V-BHXH – KÊ KHAI BHXH",
+      "detailTitle": "Kê khai bảo hiểm cho nhân viên, giảm bớt thủ tục.",
+      "description": "Làm hồ sơ và kê khai bảo hiểm xã hội trực tuyến, đỡ phải chạy lên cơ quan bảo hiểm nhiều lần",
+      "points": [
+        "Lập hồ sơ kê khai điện tử",
+        "Quản lý hồ sơ tập trung",
+        "Hướng dẫn thao tác sử dụng"
+      ],
+      "image": "/assets/ke-khai-bhxh-viettel.png",
+      "official": "",
+      "detailIntro": "",
+      "detailContent": ""
+    },
+    {
+      "id": "ftth",
+      "enabled": true,
+      "name": "FTTH – Internet Doanh nghiệp",
+      "slug": "ftth",
+      "category": "06. FTTH – INTERNET DOANH NGHIỆP",
+      "detailTitle": "Mạng ổn định cho việc kinh doanh mỗi ngày.",
+      "description": "Đường truyền cáp quang cho cửa hàng và văn phòng, để làm việc, bán hàng, thanh toán và họp trực tuyến không bị gián đoạn.",
+      "points": [
+        "Đường truyền cáp quang, hỗ trợ công nghệ Wi-Fi 6",
+        "Tốc độ download/upload cao, giúp duy trì kết nối ổn định",
+        "Đáp ứng mọi loại hình doanh nghiệp"
+      ],
+      "image": "/assets/ftth-internet-doanh-nghiep.png",
+      "official": "",
+      "detailIntro": "",
+      "detailContent": ""
+    }
+  ],
+  "customPlans": [],
+  "videos": [
+    {
+      "id": "video-0",
+      "title": "Phần mềm quản lý bán hàng Tendoo",
+      "name": "Tendoo",
+      "description": "Giới thiệu nền tảng quản lý bán hàng Tendoo",
+      "enabled": true,
+      "service": "tendoo",
+      "link": "CXnZLTpXrwQ"
+    },
+    {
+      "id": "video-1",
+      "title": "Chữ ký số Viettel-CA",
+      "name": "Viettel-CA",
+      "description": "Giới thiệu giải pháp chữ ký số Viettel-CA",
+      "enabled": true,
+      "service": "ca",
+      "link": "CqdghQxNee0"
+    },
+    {
+      "id": "video-2",
+      "title": "Hợp đồng điện tử vContract",
+      "name": "vContract",
+      "description": "Giới thiệu giải pháp hợp đồng điện tử vContract",
+      "enabled": true,
+      "service": "contract",
+      "link": "Wc8Ta2D8wKU"
+    },
+    {
+      "id": "video-3",
+      "title": "Hóa đơn điện tử S-Invoice",
+      "name": "S-Invoice",
+      "description": "Giới thiệu giải pháp hóa đơn điện tử S-Invoice",
+      "enabled": true,
+      "service": "invoice",
+      "link": "Fcyo4HGxJiM"
+    },
+    {
+      "id": "video-4",
+      "title": "Phần mềm kê khai BHXH",
+      "name": "vBHXH",
+      "description": "Giới thiệu phần mềm kê khai bảo hiểm xã hội",
+      "enabled": true,
+      "service": "bhxh",
+      "link": "https://media.vietteltelecom.vn/upload/video_cskh/ae/5f/fa/56cd326358f849917fb70d33e8339021c263ded1.mp4"
+    },
+    {
+      "id": "video-5",
+      "title": "FTTH – Internet Doanh nghiệp",
+      "name": "FTTH – Internet Doanh nghiệp",
+      "description": "Video giới thiệu Internet cáp quang Viettel dành cho doanh nghiệp",
+      "enabled": true,
+      "service": "ftth",
+      "link": "/assets/video-ftth-doanh-nghiep.mp4"
+    },
+    {
+      "id": "video-6",
+      "title": "Hướng dẫn tải và sử dụng ứng dụng TAMMI Viettel",
+      "name": "TAMMI Viettel",
+      "description": "Hướng dẫn tải và sử dụng ứng dụng TAMMI Viettel",
+      "enabled": true,
+      "service": "",
+      "link": "fkFN-ZUzwr8"
+    }
+  ],
+  "prices": {
+    "tendoo": [
+      {
+        "id": "tendoo-1",
+        "enabled": true,
+        "group": "packages",
+        "name": "Gói dịch vụ quản lý bán hàng 3 năm tặng 9 tháng",
+        "price": 5248800,
+        "term": "45 Tháng",
+        "vatNote": "(Đã bao gồm VAT)",
+        "details": []
+      },
+      {
+        "id": "tendoo-2",
+        "enabled": true,
+        "group": "packages",
+        "name": "Gói dịch vụ quản lý bán hàng 3 năm",
+        "price": 5248800,
+        "term": "3 Năm",
+        "vatNote": "(Đã bao gồm VAT)",
+        "details": []
+      },
+      {
+        "id": "tendoo-3",
+        "enabled": true,
+        "group": "packages",
+        "name": "Gói dịch vụ quản lý bán hàng 2 năm tặng 6 tháng",
+        "price": 3693600,
+        "term": "30 Tháng",
+        "vatNote": "(Đã bao gồm VAT)",
+        "details": []
+      },
+      {
+        "id": "tendoo-4",
+        "enabled": true,
+        "group": "packages",
+        "name": "Gói dịch vụ quản lý bán hàng 2 năm",
+        "price": 3693600,
+        "term": "2 Năm",
+        "vatNote": "(Đã bao gồm VAT)",
+        "details": []
+      },
+      {
+        "id": "tendoo-5",
+        "enabled": true,
+        "group": "packages",
+        "name": "Gói 3 năm DVQLBH combo ND70",
+        "price": 1963000,
+        "term": "3 Năm",
+        "vatNote": "(Đã bao gồm VAT)",
+        "details": []
+      },
+      {
+        "id": "tendoo-6",
+        "enabled": true,
+        "group": "packages",
+        "name": "Gói dịch vụ quản lý bán hàng 1 năm tặng 3 tháng",
+        "price": 1944000,
+        "term": "15 Tháng",
+        "vatNote": "(Đã bao gồm VAT)",
+        "details": []
+      },
+      {
+        "id": "tendoo-7",
+        "enabled": true,
+        "group": "packages",
+        "name": "Gói dịch vụ quản lý bán hàng 1 năm",
+        "price": 1944000,
+        "term": "1 Năm",
+        "vatNote": "(Đã bao gồm VAT)",
+        "details": []
+      },
+      {
+        "id": "tendoo-8",
+        "enabled": true,
+        "group": "packages",
+        "name": "Gói 2 năm DVQLBH combo ND70",
+        "price": 1423000,
+        "term": "2 Năm",
+        "vatNote": "(Đã bao gồm VAT)",
+        "details": []
+      },
+      {
+        "id": "tendoo-9",
+        "enabled": true,
+        "group": "packages",
+        "name": "Gói 1 năm DVQLBH combo ND70",
+        "price": 785000,
+        "term": "1 Năm",
+        "vatNote": "(Đã bao gồm VAT)",
+        "details": []
+      },
+      {
+        "id": "tendoo-10",
+        "enabled": true,
+        "group": "packages",
+        "name": "Gói miễn phí 1 tháng",
+        "price": 0,
+        "term": "1 Tháng",
+        "vatNote": "(Đã bao gồm VAT)",
+        "details": []
+      },
+      {
+        "id": "tendoo-11",
+        "enabled": true,
+        "group": "devices",
+        "name": "Máy POS để bàn Tendoo (2 màn hình)",
+        "price": 8200000,
+        "term": "1 Năm",
+        "vatNote": "(Giá đã bao gồm VAT và phí bản quyền)",
+        "details": []
+      },
+      {
+        "id": "tendoo-12",
+        "enabled": true,
+        "group": "devices",
+        "name": "Máy POS để bàn Tendoo (1 màn hình)",
+        "price": 6700000,
+        "term": "1 Năm",
+        "vatNote": "(Giá đã bao gồm VAT và phí bản quyền)",
+        "details": []
+      },
+      {
+        "id": "tendoo-13",
+        "enabled": true,
+        "group": "devices",
+        "name": "Máy POS cầm tay",
+        "price": 4200000,
+        "term": "1 Năm",
+        "vatNote": "(Giá đã bao gồm VAT và phí bản quyền)",
+        "details": []
+      },
+      {
+        "id": "tendoo-14",
+        "enabled": true,
+        "group": "devices",
+        "name": "Máy in tem nhãn + vận đơn",
+        "price": 1500000,
+        "term": "1 Năm",
+        "vatNote": "(Giá đã bao gồm VAT và phí bản quyền)",
+        "details": []
+      },
+      {
+        "id": "tendoo-15",
+        "enabled": true,
+        "group": "devices",
+        "name": "Máy in HĐ cổng USB+LAN,khổ giấy 80mm",
+        "price": 1200000,
+        "term": "1 Năm",
+        "vatNote": "(Giá đã bao gồm VAT và phí bản quyền)",
+        "details": []
+      },
+      {
+        "id": "tendoo-16",
+        "enabled": true,
+        "group": "devices",
+        "name": "Máy quét mã vạch cố định",
+        "price": 1000000,
+        "term": "1 Năm",
+        "vatNote": "(Giá đã bao gồm VAT và phí bản quyền)",
+        "details": []
+      },
+      {
+        "id": "tendoo-17",
+        "enabled": true,
+        "group": "devices",
+        "name": "Máy quét mã vạch cầm tay",
+        "price": 900000,
+        "term": "1 Năm",
+        "vatNote": "(Giá đã bao gồm VAT và phí bản quyền)",
+        "details": []
+      },
+      {
+        "id": "tendoo-18",
+        "enabled": true,
+        "group": "devices",
+        "name": "TD_LOA",
+        "price": 460000,
+        "term": "1 Năm",
+        "vatNote": "(Giá đã bao gồm VAT và phí bản quyền)",
+        "details": []
+      },
+      {
+        "id": "tendoo-19",
+        "enabled": true,
+        "group": "devices",
+        "name": "Máy thông báo thanh toán QR tĩnh",
+        "price": 300000,
+        "term": "1 Năm",
+        "vatNote": "(Giá đã bao gồm VAT và phí bản quyền)",
+        "details": []
+      }
+    ],
+    "ca": [
+      {
+        "id": "ca-1",
+        "enabled": true,
+        "group": "new",
+        "name": "GÓI CA1",
+        "price": 1792000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "12 tháng",
+        "details": [
+          "Cấp mới 1 năm Chữ ký số cho tổ chức kèm USB Token",
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Thời gian sử dụng: 12 tháng",
+          "Thiết bị: Có",
+          "Loại đăng ký: Đăng ký mới"
+        ]
+      },
+      {
+        "id": "ca-2",
+        "enabled": true,
+        "group": "new",
+        "name": "GÓI CA2",
+        "price": 2691000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "24 tháng",
+        "details": [
+          "Cấp mới 2 năm Chữ ký số cho tổ chức kèm USB Token",
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Thời gian sử dụng: 24 tháng",
+          "Thiết bị: Có",
+          "Loại đăng ký: Đăng ký mới"
+        ]
+      },
+      {
+        "id": "ca-3",
+        "enabled": true,
+        "group": "new",
+        "name": "GÓI CA3",
+        "price": 3052000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "36 tháng",
+        "details": [
+          "Cấp mới 3 năm Chữ ký số cho tổ chức kèm USB Token",
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Thời gian sử dụng: 36 tháng",
+          "Thiết bị: Có",
+          "Loại đăng ký: Đăng ký mới"
+        ]
+      },
+      {
+        "id": "ca-4",
+        "enabled": true,
+        "group": "renew",
+        "name": "GÓI CA1_GH",
+        "price": 1252000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "12 tháng",
+        "details": [
+          "Gia hạn 1 năm Chữ ký số cho tổ chức",
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Thời gian sử dụng: 12 tháng",
+          "Loại đăng ký: Gia hạn"
+        ]
+      },
+      {
+        "id": "ca-5",
+        "enabled": true,
+        "group": "renew",
+        "name": "GÓI CA2_GH",
+        "price": 2151000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "24 tháng",
+        "details": [
+          "Gia hạn 2 năm Chữ ký số cho tổ chức",
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Thời gian sử dụng: 24 tháng",
+          "Loại đăng ký: Gia hạn"
+        ]
+      },
+      {
+        "id": "ca-6",
+        "enabled": true,
+        "group": "renew",
+        "name": "GÓI CA3_GH",
+        "price": 2856000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "36 tháng",
+        "details": [
+          "Gia hạn 3 năm Chữ ký số cho tổ chức",
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Thời gian sử dụng: 36 tháng",
+          "Loại đăng ký: Gia hạn"
+        ]
+      }
+    ],
+    "contract": [
+      {
+        "id": "contract-1",
+        "enabled": true,
+        "group": "trial",
+        "name": "vCont20",
+        "price": 0,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "30 ngày",
+        "details": [
+          "Gói dùng thử 20 hợp đồng trong 30 ngày",
+          "Số lượng HĐ 20",
+          "Phí gói 0đ",
+          "Phí chứng thực 0đ",
+          "Phí khởi tạo 0đ",
+          "Đăng ký kèm SMS Brandname với giá 150đ/SMS nội mạng Viettel",
+          "Đăng ký kèm eKYC chỉ từ 1000đ/SMS"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "contract-2",
+        "enabled": true,
+        "group": "paid",
+        "name": "VCONT_100",
+        "price": 1913000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "",
+        "details": [
+          "Gói 100 hợp đồng kèm chứng thực",
+          "Số lượng HĐ 100",
+          "Phí gói 0đ",
+          "Phí chứng thực 0đ",
+          "Phí khởi tạo 1.000.000đ",
+          "Đăng ký kèm SMS Brandname với giá 150đ/SMS nội mạng Viettel",
+          "Đăng ký kèm eKYC chỉ từ 1000đ/SMS"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "contract-3",
+        "enabled": true,
+        "group": "paid",
+        "name": "VCONT_500",
+        "price": 5345000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "",
+        "details": [
+          "Gói 500 hợp đồng kèm chứng thực",
+          "Số lượng HĐ 500",
+          "Phí gói 0đ",
+          "Phí chứng thực 0đ",
+          "Phí khởi tạo 1.000.000đ",
+          "Đăng ký kèm SMS Brandname với giá 150đ/SMS nội mạng Viettel",
+          "Đăng ký kèm eKYC chỉ từ 1000đ/SMS"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "contract-4",
+        "enabled": true,
+        "group": "paid",
+        "name": "VCONT_1000",
+        "price": 9250000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "",
+        "details": [
+          "Gói 1.000 hợp đồng kèm chứng thực",
+          "Số lượng HĐ 1.000",
+          "Phí gói 0đ",
+          "Phí chứng thực 0đ",
+          "Phí khởi tạo 1.000.000đ",
+          "Đăng ký kèm SMS Brandname với giá 150đ/SMS nội mạng Viettel",
+          "Đăng ký kèm eKYC chỉ từ 1000đ/SMS"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "contract-5",
+        "enabled": true,
+        "group": "paid",
+        "name": "VCONT_5000",
+        "price": 38400000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "",
+        "details": [
+          "Gói 5.000 hợp đồng kèm chứng thực",
+          "Số lượng HĐ 5.000",
+          "Phí gói 0đ",
+          "Phí chứng thực 0đ",
+          "Phí khởi tạo 1.000.000đ",
+          "Đăng ký kèm SMS Brandname với giá 150đ/SMS nội mạng Viettel",
+          "Đăng ký kèm eKYC chỉ từ 1000đ/SMS"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "contract-6",
+        "enabled": true,
+        "group": "paid",
+        "name": "VCONT_10K",
+        "price": 73600000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "",
+        "details": [
+          "Gói 10.000 hợp đồng kèm chứng thực",
+          "Số lượng HĐ 0",
+          "Phí gói 0đ",
+          "Phí chứng thực 0đ",
+          "Phí khởi tạo 1.000.000đ",
+          "Đăng ký kèm SMS Brandname với giá 150đ/SMS nội mạng Viettel",
+          "Đăng ký kèm eKYC chỉ từ 1000đ/SMS"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "contract-7",
+        "enabled": true,
+        "group": "paid",
+        "name": "VCONT_100K",
+        "price": 705000000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "",
+        "details": [
+          "Gói 100.000 hợp đồng kèm chứng thực",
+          "Số lượng HĐ 100.000",
+          "Phí gói 0đ",
+          "Phí chứng thực 0đ",
+          "Phí khởi tạo 1.000.000đ",
+          "Đăng ký kèm SMS Brandname với giá 150đ/SMS nội mạng Viettel",
+          "Đăng ký kèm eKYC chỉ từ 1000đ/SMS"
+        ],
+        "old": null,
+        "discount": null
+      }
+    ],
+    "invoice": [
+      {
+        "id": "invoice-1",
+        "enabled": true,
+        "group": "single",
+        "name": "Gói HD_300_TT78",
+        "price": 421000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "",
+        "details": [
+          "Gói 300 hóa đơn điện tử",
+          "Đối tượng sử dụng: Doanh nghiệp",
+          "Giá gói cước: 421.000đ",
+          "Số lượng: 300",
+          "Tổng giá gói: 421.000đ"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "invoice-2",
+        "enabled": true,
+        "group": "single",
+        "name": "Gói HD_500_TT78",
+        "price": 572000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "",
+        "details": [
+          "Gói 500 hóa đơn điện tử",
+          "Đối tượng sử dụng: Doanh nghiệp",
+          "Giá gói cước: 572.000đ",
+          "Số lượng: 500",
+          "Tổng giá gói: 572.000đ"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "invoice-3",
+        "enabled": true,
+        "group": "single",
+        "name": "Gói HD_1K_TT78",
+        "price": 896000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "",
+        "details": [
+          "Gói 1.000 hóa đơn điện tử",
+          "Đối tượng sử dụng: Doanh nghiệp",
+          "Giá gói cước: 896.000đ",
+          "Số lượng: 1.000",
+          "Tổng giá gói: 896.000đ"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "invoice-4",
+        "enabled": true,
+        "group": "single",
+        "name": "Gói HD_2K_TT78",
+        "price": 1350000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "",
+        "details": [
+          "Gói 2.000 hóa đơn điện tử",
+          "Đối tượng sử dụng: Doanh nghiệp",
+          "Giá gói cước: 1.350.000đ",
+          "Số lượng: 2.000",
+          "Tổng giá gói: 1.350.000đ"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "invoice-5",
+        "enabled": true,
+        "group": "single",
+        "name": "Gói HD_5K_TT78",
+        "price": 2883000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "",
+        "details": [
+          "Gói 5.000 hóa đơn điện tử",
+          "Đối tượng sử dụng: Doanh nghiệp",
+          "Giá gói cước: 2.883.000đ",
+          "Số lượng: 5.000",
+          "Tổng giá gói: 2.883.000đ"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "invoice-6",
+        "enabled": true,
+        "group": "single",
+        "name": "Gói HD_10K_TT78",
+        "price": 4773000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "",
+        "details": [
+          "Gói 10.000 hóa đơn điện tử",
+          "Đối tượng sử dụng: Doanh nghiệp",
+          "Giá gói cước: 4.773.000đ",
+          "Số lượng: 10.000",
+          "Tổng giá gói: 4.773.000đ"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "invoice-7",
+        "enabled": true,
+        "group": "new",
+        "name": "Combo 300 hóa đơn cấp mới CA 1 năm",
+        "price": 2079000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "Chữ ký số 12 tháng",
+        "details": [
+          "Gói combo cấp mới đồng thời Viettel CA 1 năm và Hóa đơn điện tử",
+          "Số lượng: 300 hóa đơn",
+          "Chữ ký số 12 tháng"
+        ],
+        "old": 2255000,
+        "discount": 8
+      },
+      {
+        "id": "invoice-8",
+        "enabled": true,
+        "group": "new",
+        "name": "Combo 500 hóa đơn cấp mới CA 1 năm",
+        "price": 2222000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "Chữ ký số 12 tháng",
+        "details": [
+          "Gói combo cấp mới đồng thời Viettel CA 1 năm và Hóa đơn điện tử",
+          "Số lượng: 500 hóa đơn",
+          "Chữ ký số 12 tháng"
+        ],
+        "old": 2409000,
+        "discount": 8
+      },
+      {
+        "id": "invoice-9",
+        "enabled": true,
+        "group": "new",
+        "name": "Combo 1.000 hóa đơn cấp mới CA 1 năm",
+        "price": 2519000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "Chữ ký số 12 tháng",
+        "details": [
+          "Gói combo cấp mới đồng thời Viettel CA 1 năm và Hóa đơn điện tử",
+          "Số lượng: 1.000 hóa đơn",
+          "Chữ ký số 12 tháng"
+        ],
+        "old": 2739000,
+        "discount": 8
+      },
+      {
+        "id": "invoice-10",
+        "enabled": true,
+        "group": "new",
+        "name": "Combo 2.000 hóa đơn cấp mới CA 1 năm",
+        "price": 2937000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "Chữ ký số 12 tháng",
+        "details": [
+          "Gói combo cấp mới đồng thời Viettel CA 1 năm và Hóa đơn điện tử",
+          "Số lượng: 2.000 hóa đơn",
+          "Chữ ký số 12 tháng"
+        ],
+        "old": 3201000,
+        "discount": 8
+      },
+      {
+        "id": "invoice-11",
+        "enabled": true,
+        "group": "new",
+        "name": "Combo 3.000 hóa đơn cấp mới CA 1 năm",
+        "price": 3432000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "Chữ ký số 12 tháng",
+        "details": [
+          "Gói combo cấp mới đồng thời Viettel CA 1 năm và Hóa đơn điện tử",
+          "Số lượng: 3.000 hóa đơn",
+          "Chữ ký số 12 tháng"
+        ],
+        "old": 3762000,
+        "discount": 9
+      },
+      {
+        "id": "invoice-12",
+        "enabled": true,
+        "group": "new",
+        "name": "Combo 300 hóa đơn cấp mới CA 2 năm",
+        "price": 2904000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "Chữ ký số 24 tháng",
+        "details": [
+          "Gói combo cấp mới đồng thời Viettel CA 2 năm và Hóa đơn điện tử",
+          "Số lượng: 300 hóa đơn",
+          "Chữ ký số 24 tháng"
+        ],
+        "old": 3170000,
+        "discount": 8
+      },
+      {
+        "id": "invoice-13",
+        "enabled": true,
+        "group": "new",
+        "name": "Combo 500 hóa đơn cấp mới CA 2 năm",
+        "price": 3047000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "Chữ ký số 24 tháng",
+        "details": [
+          "Gói combo cấp mới đồng thời Viettel CA 2 năm và Hóa đơn điện tử",
+          "Số lượng: 500 hóa đơn",
+          "Chữ ký số 24 tháng"
+        ],
+        "old": 3324000,
+        "discount": 8
+      },
+      {
+        "id": "invoice-14",
+        "enabled": true,
+        "group": "new",
+        "name": "Combo 1.000 hóa đơn cấp mới CA 2 năm",
+        "price": 3344000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "Chữ ký số 24 tháng",
+        "details": [
+          "Gói combo cấp mới đồng thời Viettel CA 2 năm và Hóa đơn điện tử",
+          "Số lượng: 1.000 hóa đơn",
+          "Chữ ký số 24 tháng"
+        ],
+        "old": 3654000,
+        "discount": 8
+      },
+      {
+        "id": "invoice-15",
+        "enabled": true,
+        "group": "new",
+        "name": "Combo 2.000 hóa đơn cấp mới CA 2 năm",
+        "price": 3762000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "Chữ ký số 24 tháng",
+        "details": [
+          "Gói combo cấp mới đồng thời Viettel CA 2 năm và Hóa đơn điện tử",
+          "Số lượng: 2.000 hóa đơn",
+          "Chữ ký số 24 tháng"
+        ],
+        "old": 4116000,
+        "discount": 9
+      },
+      {
+        "id": "invoice-16",
+        "enabled": true,
+        "group": "new",
+        "name": "Combo 3.000 hóa đơn cấp mới CA 2 năm",
+        "price": 4257000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "Chữ ký số 24 tháng",
+        "details": [
+          "Gói combo cấp mới đồng thời Viettel CA 2 năm và Hóa đơn điện tử",
+          "Số lượng: 3.000 hóa đơn",
+          "Chữ ký số 24 tháng"
+        ],
+        "old": 4677000,
+        "discount": 9
+      },
+      {
+        "id": "invoice-17",
+        "enabled": true,
+        "group": "new",
+        "name": "Combo 300 hóa đơn cấp mới CA 3 năm",
+        "price": 3179000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "Chữ ký số 36 tháng",
+        "details": [
+          "Gói combo cấp mới đồng thời Viettel CA 3 năm và Hóa đơn điện tử",
+          "Số lượng: 300 hóa đơn",
+          "Chữ ký số 36 tháng"
+        ],
+        "old": 3538000,
+        "discount": 10
+      },
+      {
+        "id": "invoice-18",
+        "enabled": true,
+        "group": "new",
+        "name": "Combo 500 hóa đơn cấp mới CA 3 năm",
+        "price": 3322000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "Chữ ký số 36 tháng",
+        "details": [
+          "Gói combo cấp mới đồng thời Viettel CA 3 năm và Hóa đơn điện tử",
+          "Số lượng: 500 hóa đơn",
+          "Chữ ký số 36 tháng"
+        ],
+        "old": 3692000,
+        "discount": 10
+      },
+      {
+        "id": "invoice-19",
+        "enabled": true,
+        "group": "new",
+        "name": "Combo 1.000 hóa đơn cấp mới CA 3 năm",
+        "price": 3619000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "Chữ ký số 36 tháng",
+        "details": [
+          "Gói combo cấp mới đồng thời Viettel CA 3 năm và Hóa đơn điện tử",
+          "Số lượng: 1.000 hóa đơn",
+          "Chữ ký số 36 tháng"
+        ],
+        "old": 4022000,
+        "discount": 10
+      },
+      {
+        "id": "invoice-20",
+        "enabled": true,
+        "group": "new",
+        "name": "Combo 2.000 hóa đơn cấp mới CA 3 năm",
+        "price": 4037000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "Chữ ký số 36 tháng",
+        "details": [
+          "Gói combo cấp mới đồng thời Viettel CA 3 năm và Hóa đơn điện tử",
+          "Số lượng: 2.000 hóa đơn",
+          "Chữ ký số 36 tháng"
+        ],
+        "old": 4484000,
+        "discount": 10
+      },
+      {
+        "id": "invoice-21",
+        "enabled": true,
+        "group": "new",
+        "name": "Combo 3.000 hóa đơn cấp mới CA 3 năm",
+        "price": 4532000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "Chữ ký số 36 tháng",
+        "details": [
+          "Gói combo cấp mới đồng thời Viettel CA 3 năm và Hóa đơn điện tử",
+          "Số lượng: 3.000 hóa đơn",
+          "Chữ ký số 36 tháng"
+        ],
+        "old": 5045000,
+        "discount": 10
+      },
+      {
+        "id": "invoice-22",
+        "enabled": true,
+        "group": "renew",
+        "name": "Combo 300 hóa đơn gia hạn CA 1 năm",
+        "price": 1529000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "Chữ ký số 12 tháng",
+        "details": [
+          "Gói combo gia hạn đồng thời Viettel CA 1 năm và Hóa đơn điện tử",
+          "Số lượng: 300 hóa đơn",
+          "Chữ ký số 12 tháng"
+        ],
+        "old": 1705000,
+        "discount": 10
+      },
+      {
+        "id": "invoice-23",
+        "enabled": true,
+        "group": "renew",
+        "name": "Combo 500 hóa đơn gia hạn CA 1 năm",
+        "price": 1672000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "Chữ ký số 12 tháng",
+        "details": [
+          "Gói combo gia hạn đồng thời Viettel CA 1 năm và Hóa đơn điện tử",
+          "Số lượng: 500 hóa đơn",
+          "Chữ ký số 12 tháng"
+        ],
+        "old": 1859000,
+        "discount": 10
+      },
+      {
+        "id": "invoice-24",
+        "enabled": true,
+        "group": "renew",
+        "name": "Combo 1.000 hóa đơn gia hạn CA 1 năm",
+        "price": 1969000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "Chữ ký số 12 tháng",
+        "details": [
+          "Gói combo gia hạn đồng thời Viettel CA 1 năm và Hóa đơn điện tử",
+          "Số lượng: 1.000 hóa đơn",
+          "Chữ ký số 12 tháng"
+        ],
+        "old": 2189000,
+        "discount": 10
+      },
+      {
+        "id": "invoice-25",
+        "enabled": true,
+        "group": "renew",
+        "name": "Combo 2.000 hóa đơn gia hạn CA 1 năm",
+        "price": 2387000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "Chữ ký số 12 tháng",
+        "details": [
+          "Gói combo gia hạn đồng thời Viettel CA 1 năm và Hóa đơn điện tử",
+          "Số lượng: 2.000 hóa đơn",
+          "Chữ ký số 12 tháng"
+        ],
+        "old": 2651000,
+        "discount": 10
+      },
+      {
+        "id": "invoice-26",
+        "enabled": true,
+        "group": "renew",
+        "name": "Combo 3.000 hóa đơn gia hạn CA 1 năm",
+        "price": 2882000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "Chữ ký số 12 tháng",
+        "details": [
+          "Gói combo gia hạn đồng thời Viettel CA 1 năm và Hóa đơn điện tử",
+          "Số lượng: 3.000 hóa đơn",
+          "Chữ ký số 12 tháng"
+        ],
+        "old": 3212000,
+        "discount": 10
+      },
+      {
+        "id": "invoice-27",
+        "enabled": true,
+        "group": "renew",
+        "name": "Combo 300 hóa đơn gia hạn CA 2 năm",
+        "price": 2354000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "Chữ ký số 24 tháng",
+        "details": [
+          "Gói combo gia hạn đồng thời Viettel CA 2 năm và Hóa đơn điện tử",
+          "Số lượng: 300 hóa đơn",
+          "Chữ ký số 24 tháng"
+        ],
+        "old": 2620000,
+        "discount": 10
+      },
+      {
+        "id": "invoice-28",
+        "enabled": true,
+        "group": "renew",
+        "name": "Combo 500 hóa đơn gia hạn CA 2 năm",
+        "price": 2497000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "Chữ ký số 24 tháng",
+        "details": [
+          "Gói combo gia hạn đồng thời Viettel CA 2 năm và Hóa đơn điện tử",
+          "Số lượng: 500 hóa đơn",
+          "Chữ ký số 24 tháng"
+        ],
+        "old": 2774000,
+        "discount": 10
+      },
+      {
+        "id": "invoice-29",
+        "enabled": true,
+        "group": "renew",
+        "name": "Combo 1.000 hóa đơn gia hạn CA 2 năm",
+        "price": 2794000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "Chữ ký số 24 tháng",
+        "details": [
+          "Gói combo gia hạn đồng thời Viettel CA 2 năm và Hóa đơn điện tử",
+          "Số lượng: 1.000 hóa đơn",
+          "Chữ ký số 24 tháng"
+        ],
+        "old": 3104000,
+        "discount": 10
+      },
+      {
+        "id": "invoice-30",
+        "enabled": true,
+        "group": "renew",
+        "name": "Combo 2.000 hóa đơn gia hạn CA 2 năm",
+        "price": 3212000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "Chữ ký số 24 tháng",
+        "details": [
+          "Gói combo gia hạn đồng thời Viettel CA 2 năm và Hóa đơn điện tử",
+          "Số lượng: 2.000 hóa đơn",
+          "Chữ ký số 24 tháng"
+        ],
+        "old": 3566000,
+        "discount": 10
+      },
+      {
+        "id": "invoice-31",
+        "enabled": true,
+        "group": "renew",
+        "name": "Combo 3.000 hóa đơn gia hạn CA 2 năm",
+        "price": 3707000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "Chữ ký số 24 tháng",
+        "details": [
+          "Gói combo gia hạn đồng thời Viettel CA 2 năm và Hóa đơn điện tử",
+          "Số lượng: 3.000 hóa đơn",
+          "Chữ ký số 24 tháng"
+        ],
+        "old": 4127000,
+        "discount": 10
+      },
+      {
+        "id": "invoice-32",
+        "enabled": true,
+        "group": "renew",
+        "name": "Combo 300 hóa đơn gia hạn CA 3 năm",
+        "price": 3003000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "Chữ ký số 36 tháng",
+        "details": [
+          "Gói combo gia hạn đồng thời Viettel CA 3 năm và Hóa đơn điện tử",
+          "Số lượng: 300 hóa đơn",
+          "Chữ ký số 36 tháng"
+        ],
+        "old": 3338000,
+        "discount": 10
+      },
+      {
+        "id": "invoice-33",
+        "enabled": true,
+        "group": "renew",
+        "name": "Combo 500 hóa đơn gia hạn CA 3 năm",
+        "price": 3146000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "Chữ ký số 36 tháng",
+        "details": [
+          "Gói combo gia hạn đồng thời Viettel CA 3 năm và Hóa đơn điện tử",
+          "Số lượng: 500 hóa đơn",
+          "Chữ ký số 36 tháng"
+        ],
+        "old": 3492000,
+        "discount": 10
+      },
+      {
+        "id": "invoice-34",
+        "enabled": true,
+        "group": "renew",
+        "name": "Combo 1.000 hóa đơn gia hạn CA 3 năm",
+        "price": 3443000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "Chữ ký số 36 tháng",
+        "details": [
+          "Gói combo gia hạn đồng thời Viettel CA 3 năm và Hóa đơn điện tử",
+          "Số lượng: 1.000 hóa đơn",
+          "Chữ ký số 36 tháng"
+        ],
+        "old": 3822000,
+        "discount": 10
+      },
+      {
+        "id": "invoice-35",
+        "enabled": true,
+        "group": "renew",
+        "name": "Combo 2.000 hóa đơn gia hạn CA 3 năm",
+        "price": 3861000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "Chữ ký số 36 tháng",
+        "details": [
+          "Gói combo gia hạn đồng thời Viettel CA 3 năm và Hóa đơn điện tử",
+          "Số lượng: 2.000 hóa đơn",
+          "Chữ ký số 36 tháng"
+        ],
+        "old": 4284000,
+        "discount": 10
+      },
+      {
+        "id": "invoice-36",
+        "enabled": true,
+        "group": "renew",
+        "name": "Combo 3.000 hóa đơn gia hạn CA 3 năm",
+        "price": 4356000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "Chữ ký số 36 tháng",
+        "details": [
+          "Gói combo gia hạn đồng thời Viettel CA 3 năm và Hóa đơn điện tử",
+          "Số lượng: 3.000 hóa đơn",
+          "Chữ ký số 36 tháng"
+        ],
+        "old": 4845000,
+        "discount": 10
+      }
+    ],
+    "bhxh": [
+      {
+        "id": "bhxh-1",
+        "enabled": true,
+        "group": "new",
+        "name": "Gói Đăng ký vBHXH 10 người lao động",
+        "price": 196000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "18 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 18 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Cấp mới",
+          "Số người lao động: Tối đa 10 người lao động"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-2",
+        "enabled": true,
+        "group": "new",
+        "name": "Gói Đăng ký vBHXH 10 người lao động",
+        "price": 274000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "33 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 33 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Cấp mới",
+          "Số người lao động: Tối đa 10 người lao động"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-3",
+        "enabled": true,
+        "group": "new",
+        "name": "Gói Đăng ký vBHXH 10 người lao động",
+        "price": 333000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "48 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 48 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Cấp mới",
+          "Số người lao động: Tối đa 10 người lao động"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-4",
+        "enabled": true,
+        "group": "new",
+        "name": "Gói Cấp mới vBHXH 18 tháng gói 10 người lao động",
+        "price": 216000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "18 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 18 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Cấp mới",
+          "Số người lao động: Tối đa 10 người lao động"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-5",
+        "enabled": true,
+        "group": "new",
+        "name": "Gói Cấp mới vBHXH 33 tháng gói 10 người lao động",
+        "price": 345000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "33 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 33 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Cấp mới",
+          "Số người lao động: Tối đa 10 người lao động"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-6",
+        "enabled": true,
+        "group": "new",
+        "name": "Gói Cấp mới vBHXH 48 tháng gói 10 người lao động",
+        "price": 410000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "48 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 48 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Cấp mới",
+          "Số người lao động: Tối đa 10 người lao động"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-7",
+        "enabled": true,
+        "group": "new",
+        "name": "Gói Đăng ký vBHXH 100 người lao động",
+        "price": 455000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "18 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 18 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Cấp mới",
+          "Số người lao động: Tối đa 100 người lao động"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-8",
+        "enabled": true,
+        "group": "new",
+        "name": "Gói Đăng ký vBHXH 100 người lao động",
+        "price": 780000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "33 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 33 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Cấp mới",
+          "Số người lao động: Tối đa 100 người lao động"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-9",
+        "enabled": true,
+        "group": "new",
+        "name": "Gói Đăng ký vBHXH 100 người lao động",
+        "price": 814000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "48 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 48 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Cấp mới",
+          "Số người lao động: Tối đa 100 người lao động"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-10",
+        "enabled": true,
+        "group": "new",
+        "name": "Gói Cấp mới vBHXH 18 tháng gói 100 người lao động",
+        "price": 540000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "18 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 18 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Cấp mới",
+          "Số người lao động: Tối đa 100 người lao động"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-11",
+        "enabled": true,
+        "group": "new",
+        "name": "Gói Cấp mới vBHXH 33 tháng gói 100 người lao động",
+        "price": 864000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "33 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 33 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Cấp mới",
+          "Số người lao động: Tối đa 100 người lao động"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-12",
+        "enabled": true,
+        "group": "new",
+        "name": "Gói Cấp mới vBHXH 48 tháng gói 100 người lao động",
+        "price": 1026000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "48 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 48 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Cấp mới",
+          "Số người lao động: Tối đa 100 người lao động"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-13",
+        "enabled": true,
+        "group": "new",
+        "name": "Gói Đăng ký vBHXH 1000 người lao động",
+        "price": 756000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "18 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 18 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Cấp mới",
+          "Số người lao động: Tối đa 1000 người lao động"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-14",
+        "enabled": true,
+        "group": "new",
+        "name": "Gói Đăng ký vBHXH 1000 người lao động",
+        "price": 1234000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "33 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 33 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Cấp mới",
+          "Số người lao động: Tối đa 1000 người lao động"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-15",
+        "enabled": true,
+        "group": "new",
+        "name": "Gói Đăng ký vBHXH 1000 người lao động",
+        "price": 1392000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "48 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 48 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Cấp mới",
+          "Số người lao động: Tối đa 1000 người lao động"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-16",
+        "enabled": true,
+        "group": "new",
+        "name": "Gói Cấp mới vBHXH 18 tháng gói 1000 người lao động",
+        "price": 864000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "18 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 18 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Cấp mới",
+          "Số người lao động: Tối đa 1000 người lao động"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-17",
+        "enabled": true,
+        "group": "new",
+        "name": "Gói Cấp mới vBHXH 33 tháng gói 1000 người lao động",
+        "price": 1382000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "33 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 33 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Cấp mới",
+          "Số người lao động: Tối đa 1000 người lao động"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-18",
+        "enabled": true,
+        "group": "new",
+        "name": "Gói Cấp mới vBHXH 48 tháng gói 1000 người lao động",
+        "price": 1641000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "48 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: —",
+          "Thời gian sử dụng: 48 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: —",
+          "Số người lao động: —"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-19",
+        "enabled": true,
+        "group": "new",
+        "name": "Gói Đăng ký vBHXH không giời hạn NLĐ",
+        "price": 1060000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "18 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: —",
+          "Thời gian sử dụng: 18 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: —",
+          "Số người lao động: —"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-20",
+        "enabled": true,
+        "group": "new",
+        "name": "Gói Đăng ký vBHXH không giời hạn NLĐ",
+        "price": 1718000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "33 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 33 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Cấp mới",
+          "Số người lao động: —"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-21",
+        "enabled": true,
+        "group": "new",
+        "name": "Gói Đăng ký vBHXH không giời hạn NLĐ",
+        "price": 1975000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "48 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 48 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Cấp mới",
+          "Số người lao động: —"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-22",
+        "enabled": true,
+        "group": "new",
+        "name": "Gói Cấp mới vBHXH 18 tháng gói không giới hạn người lao động",
+        "price": 1188000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "18 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 18 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Cấp mới",
+          "Số người lao động: —"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-23",
+        "enabled": true,
+        "group": "new",
+        "name": "Gói Cấp mới vBHXH 33 tháng gói không giới hạn người lao động",
+        "price": 1900000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "33 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 33 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Cấp mới",
+          "Số người lao động: —"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-24",
+        "enabled": true,
+        "group": "new",
+        "name": "Gói Cấp mới vBHXH 48 tháng gói không giới hạn người lao động",
+        "price": 2248000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "48 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 48 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Cấp mới",
+          "Số người lao động: —"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-25",
+        "enabled": true,
+        "group": "renew",
+        "name": "Gói Gia hạn vBHXH 10 người lao động",
+        "price": 196000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "18 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 18 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Gia hạn",
+          "Số người lao động: Tối đa 10 người lao động"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-26",
+        "enabled": true,
+        "group": "renew",
+        "name": "Gói Gia hạn vBHXH 10 người lao động",
+        "price": 274000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "33 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 33 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Gia hạn",
+          "Số người lao động: Tối đa 10 người lao động"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-27",
+        "enabled": true,
+        "group": "renew",
+        "name": "Gói Gia hạn vBHXH 10 người lao động",
+        "price": 333000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "48 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 48 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Gia hạn",
+          "Số người lao động: Tối đa 10 người lao động"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-28",
+        "enabled": true,
+        "group": "renew",
+        "name": "Gói Gia hạn vBHXH 18 tháng gói 10 người lao động",
+        "price": 216000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "18 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 18 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Gia hạn",
+          "Số người lao động: Tối đa 10 người lao động"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-29",
+        "enabled": true,
+        "group": "renew",
+        "name": "Gói Gia hạn vBHXH 33 tháng gói 10 người lao động",
+        "price": 345000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "33 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 33 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Gia hạn",
+          "Số người lao động: Tối đa 10 người lao động"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-30",
+        "enabled": true,
+        "group": "renew",
+        "name": "Gói Gia hạn vBHXH 48 tháng gói 10 người lao động",
+        "price": 410000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "48 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 48 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Gia hạn",
+          "Số người lao động: Tối đa 10 người lao động"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-31",
+        "enabled": true,
+        "group": "renew",
+        "name": "Gói Gia hạn vBHXH 100 người lao động",
+        "price": 455000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "18 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 18 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Gia hạn",
+          "Số người lao động: Tối đa 100 người lao động"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-32",
+        "enabled": true,
+        "group": "renew",
+        "name": "Gói Gia hạn vBHXH 100 người lao động",
+        "price": 780000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "33 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 33 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Gia hạn",
+          "Số người lao động: Tối đa 100 người lao động"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-33",
+        "enabled": true,
+        "group": "renew",
+        "name": "Gói Gia hạn vBHXH 100 người lao động",
+        "price": 814000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "48 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 48 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Gia hạn",
+          "Số người lao động: Tối đa 100 người lao động"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-34",
+        "enabled": true,
+        "group": "renew",
+        "name": "Gói Gia hạn vBHXH 18 tháng gói 100 người lao động",
+        "price": 540000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "18 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 18 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Gia hạn",
+          "Số người lao động: Tối đa 100 người lao động"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-35",
+        "enabled": true,
+        "group": "renew",
+        "name": "Gói Gia hạn vBHXH 33 tháng gói 100 người lao động",
+        "price": 864000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "33 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 33 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Gia hạn",
+          "Số người lao động: Tối đa 100 người lao động"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-36",
+        "enabled": true,
+        "group": "renew",
+        "name": "Gói Gia hạn vBHXH 48 tháng gói 100 người lao động",
+        "price": 1026000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "48 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 48 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Gia hạn",
+          "Số người lao động: Tối đa 100 người lao động"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-37",
+        "enabled": true,
+        "group": "renew",
+        "name": "Gói Gia hạn vBHXH 1000 người lao động",
+        "price": 756000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "18 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 18 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Gia hạn",
+          "Số người lao động: Tối đa 1000 người lao động"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-38",
+        "enabled": true,
+        "group": "renew",
+        "name": "Gói Gia hạn vBHXH 1000 người lao động",
+        "price": 1234000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "33 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 33 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Gia hạn",
+          "Số người lao động: Tối đa 1000 người lao động"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-39",
+        "enabled": true,
+        "group": "renew",
+        "name": "Gói Gia hạn vBHXH 1000 người lao động",
+        "price": 1392000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "48 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 48 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Gia hạn",
+          "Số người lao động: Tối đa 1000 người lao động"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-40",
+        "enabled": true,
+        "group": "renew",
+        "name": "Gói Gia hạn vBHXH 18 tháng gói 1000 người lao động",
+        "price": 864000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "18 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: —",
+          "Thời gian sử dụng: 18 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: —",
+          "Số người lao động: —"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-41",
+        "enabled": true,
+        "group": "renew",
+        "name": "Gói Gia hạn vBHXH 33 tháng gói 1000 người lao động",
+        "price": 1382000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "33 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 33 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Gia hạn",
+          "Số người lao động: Tối đa 1000 người lao động"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-42",
+        "enabled": true,
+        "group": "renew",
+        "name": "Gói Gia hạn vBHXH 48 tháng gói 1000 người lao động",
+        "price": 1641000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "48 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 48 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Gia hạn",
+          "Số người lao động: Tối đa 1000 người lao động"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-43",
+        "enabled": true,
+        "group": "renew",
+        "name": "Gói Gia hạn vBHXH không giời hạn NLĐ",
+        "price": 1060000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "18 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 18 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Gia hạn",
+          "Số người lao động: —"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-44",
+        "enabled": true,
+        "group": "renew",
+        "name": "Gói Gia hạn vBHXH không giời hạn NLĐ",
+        "price": 1718000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "33 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 33 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Gia hạn",
+          "Số người lao động: —"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-45",
+        "enabled": true,
+        "group": "renew",
+        "name": "Gói Gia hạn vBHXH không giời hạn NLĐ",
+        "price": 1975000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "48 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 48 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Gia hạn",
+          "Số người lao động: —"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-46",
+        "enabled": true,
+        "group": "renew",
+        "name": "Gói Gia hạn vBHXH 18 tháng gói không giới hạn người lao động",
+        "price": 1188000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "18 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 18 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Gia hạn",
+          "Số người lao động: —"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-47",
+        "enabled": true,
+        "group": "renew",
+        "name": "Gói Gia hạn vBHXH 33 tháng gói không giới hạn người lao động",
+        "price": 1900000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "33 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: —",
+          "Thời gian sử dụng: 33 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: —",
+          "Số người lao động: —"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-48",
+        "enabled": true,
+        "group": "renew",
+        "name": "Gói Gia hạn vBHXH 48 tháng gói không giới hạn người lao động",
+        "price": 2248000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "48 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Doanh nghiệp",
+          "Thời gian sử dụng: 48 tháng",
+          "Thiết bị: Không",
+          "Loại đăng kí: Gia hạn",
+          "Số người lao động: —"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-49",
+        "enabled": true,
+        "group": "trial",
+        "name": "Gói dùng thử vBHXH 1 tháng không giới hạn người lao động",
+        "price": 0,
+        "vatNote": "(Đã bao gồm VAT)",
+        "term": "1 tháng",
+        "details": [
+          "Phí hòa mạng: 0đ",
+          "Phí lắp đặt: 0đ",
+          "Loại khách hàng: Tổ chức",
+          "Thời gian sử dụng: 1 tháng",
+          "Thiết bị: Có",
+          "Loại đăng kí: Cấp mới",
+          "Số người lao động: Không giới hạn người lao động"
+        ],
+        "old": null,
+        "discount": null
+      },
+      {
+        "id": "bhxh-50",
+        "enabled": true,
+        "group": "combo",
+        "name": "Combo cấp mới CA 18 tháng và vBHXH 10 người lao động",
+        "price": 1870000,
+        "vatNote": "(VAT theo bảng giá combo Viettel)",
+        "term": "",
+        "details": [
+          "Gói combo cấp mới đồng thời Viettel CA 18 tháng và Bảo hiểm xã hội",
+          "Số người lao động: Tối đa 10"
+        ],
+        "old": 2038300,
+        "discount": 9
+      },
+      {
+        "id": "bhxh-51",
+        "enabled": true,
+        "group": "combo",
+        "name": "Combo cấp mới CA 18 tháng và vBHXH 100 người lao động",
+        "price": 2134000,
+        "vatNote": "(VAT theo bảng giá combo Viettel)",
+        "term": "",
+        "details": [
+          "Gói combo cấp mới đồng thời Viettel CA 18 tháng và Bảo hiểm xã hội",
+          "Số người lao động: Tối đa 100"
+        ],
+        "old": 2347400,
+        "discount": 10
+      },
+      {
+        "id": "bhxh-52",
+        "enabled": true,
+        "group": "combo",
+        "name": "Combo cấp mới CA 18 tháng và vBHXH 1000 người lao động",
+        "price": 2440000,
+        "vatNote": "(VAT theo bảng giá combo Viettel)",
+        "term": "",
+        "details": [
+          "Gói combo cấp mới đồng thời Viettel CA 18 tháng và Bảo hiểm xã hội",
+          "Số người lao động: Tối đa 1000"
+        ],
+        "old": 2684000,
+        "discount": 10
+      },
+      {
+        "id": "bhxh-53",
+        "enabled": true,
+        "group": "combo",
+        "name": "Combo cấp mới CA 18 tháng và vBHXH không giới hạn NLĐ",
+        "price": 2750000,
+        "vatNote": "(VAT theo bảng giá combo Viettel)",
+        "term": "",
+        "details": [
+          "Gói combo cấp mới đồng thời Viettel CA 18 tháng và Bảo hiểm xã hội",
+          "Số người lao động: Không giới hạn"
+        ],
+        "old": 2997500,
+        "discount": 9
+      },
+      {
+        "id": "bhxh-54",
+        "enabled": true,
+        "group": "combo",
+        "name": "Combo cấp mới CA 33 tháng và vBHXH 10 người lao động",
+        "price": 2730000,
+        "vatNote": "(VAT theo bảng giá combo Viettel)",
+        "term": "",
+        "details": [
+          "Gói combo cấp mới đồng thời Viettel CA 33 tháng và Bảo hiểm xã hội",
+          "Số người lao động: Tối đa 10"
+        ],
+        "old": 2975700,
+        "discount": 9
+      },
+      {
+        "id": "bhxh-55",
+        "enabled": true,
+        "group": "combo",
+        "name": "Combo cấp mới CA 33 tháng và vBHXH 100 người lao động",
+        "price": 3245000,
+        "vatNote": "(VAT theo bảng giá combo Viettel)",
+        "term": "",
+        "details": [
+          "Gói combo cấp mới đồng thời Viettel CA 33 tháng và Bảo hiểm xã hội",
+          "Số người lao động: Tối đa 100"
+        ],
+        "old": 3569500,
+        "discount": 10
+      },
+      {
+        "id": "bhxh-56",
+        "enabled": true,
+        "group": "combo",
+        "name": "Combo cấp mới CA 33 tháng và vBHXH 1000 người lao động",
+        "price": 3707000,
+        "vatNote": "(VAT theo bảng giá combo Viettel)",
+        "term": "",
+        "details": [
+          "Gói combo cấp mới đồng thời Viettel CA 33 tháng và Bảo hiểm xã hội",
+          "Số người lao động: Tối đa 1000"
+        ],
+        "old": 4114770,
+        "discount": 11
+      },
+      {
+        "id": "bhxh-57",
+        "enabled": true,
+        "group": "combo",
+        "name": "Combo cấp mới CA 33 tháng và vBHXH không giới hạn NLĐ",
+        "price": 4200000,
+        "vatNote": "(VAT theo bảng giá combo Viettel)",
+        "term": "",
+        "details": [
+          "Gói combo cấp mới đồng thời Viettel CA 33 tháng và Bảo hiểm xã hội",
+          "Số người lao động: Không giới hạn"
+        ],
+        "old": 4620000,
+        "discount": 10
+      },
+      {
+        "id": "bhxh-58",
+        "enabled": true,
+        "group": "combo",
+        "name": "Combo cấp mới CA 48 tháng và vBHXH 10 người lao động",
+        "price": 3080000,
+        "vatNote": "(VAT theo bảng giá combo Viettel)",
+        "term": "",
+        "details": [
+          "Gói combo cấp mới đồng thời Viettel CA 48 tháng và Bảo hiểm xã hội",
+          "Số người lao động: Tối đa 10"
+        ],
+        "old": 3480400,
+        "discount": 13
+      },
+      {
+        "id": "bhxh-59",
+        "enabled": true,
+        "group": "combo",
+        "name": "Combo cấp mới CA 48 tháng và vBHXH 100 người lao động",
+        "price": 3570000,
+        "vatNote": "(VAT theo bảng giá combo Viettel)",
+        "term": "",
+        "details": [
+          "Gói combo cấp mới đồng thời Viettel CA 48 tháng và Bảo hiểm xã hội",
+          "Số người lao động: Tối đa 100"
+        ],
+        "old": 4069800,
+        "discount": 14
+      },
+      {
+        "id": "bhxh-60",
+        "enabled": true,
+        "group": "combo",
+        "name": "Combo cấp mới CA 48 tháng và vBHXH 1000 người lao động",
+        "price": 4158000,
+        "vatNote": "(VAT theo bảng giá combo Viettel)",
+        "term": "",
+        "details": [
+          "Gói combo cấp mới đồng thời Viettel CA 48 tháng và Bảo hiểm xã hội",
+          "Số người lao động: Tối đa 1000"
+        ],
+        "old": 4698540,
+        "discount": 13
+      },
+      {
+        "id": "bhxh-61",
+        "enabled": true,
+        "group": "combo",
+        "name": "Combo cấp mới CA 48 tháng và vBHXH không giới hạn NLĐ",
+        "price": 4752000,
+        "vatNote": "(VAT theo bảng giá combo Viettel)",
+        "term": "",
+        "details": [
+          "Gói combo cấp mới đồng thời Viettel CA 48 tháng và Bảo hiểm xã hội",
+          "Số người lao động: Không giới hạn"
+        ],
+        "old": 5322240,
+        "discount": 12
+      },
+      {
+        "id": "bhxh-62",
+        "enabled": true,
+        "group": "combo",
+        "name": "Combo gia hạn CA 18 tháng và vBHXH 10 người lao động",
+        "price": 1320000,
+        "vatNote": "(VAT theo bảng giá combo Viettel)",
+        "term": "",
+        "details": [
+          "Gói combo gia hạn đồng thời Viettel CA 18 tháng và Bảo hiểm xã hội",
+          "Số người lao động: Tối đa 10"
+        ],
+        "old": 1438800,
+        "discount": 9
+      },
+      {
+        "id": "bhxh-63",
+        "enabled": true,
+        "group": "combo",
+        "name": "Combo gia hạn CA 18 tháng và vBHXH 100 người lao động",
+        "price": 1584000,
+        "vatNote": "(VAT theo bảng giá combo Viettel)",
+        "term": "",
+        "details": [
+          "Gói combo gia hạn đồng thời Viettel CA 18 tháng và Bảo hiểm xã hội",
+          "Số người lao động: Tối đa 100"
+        ],
+        "old": 1742400,
+        "discount": 10
+      },
+      {
+        "id": "bhxh-64",
+        "enabled": true,
+        "group": "combo",
+        "name": "Combo gia hạn CA 18 tháng và vBHXH 1000 người lao động",
+        "price": 1890000,
+        "vatNote": "(VAT theo bảng giá combo Viettel)",
+        "term": "",
+        "details": [
+          "Gói combo gia hạn đồng thời Viettel CA 18 tháng và Bảo hiểm xã hội",
+          "Số người lao động: Tối đa 1000"
+        ],
+        "old": 2079000,
+        "discount": 10
+      },
+      {
+        "id": "bhxh-65",
+        "enabled": true,
+        "group": "combo",
+        "name": "Combo gia hạn CA 18 tháng và vBHXH không giới hạn NLĐ",
+        "price": 2200000,
+        "vatNote": "(VAT theo bảng giá combo Viettel)",
+        "term": "",
+        "details": [
+          "Gói combo gia hạn đồng thời Viettel CA 18 tháng và Bảo hiểm xã hội",
+          "Số người lao động: Không giới hạn"
+        ],
+        "old": 2398000,
+        "discount": 9
+      },
+      {
+        "id": "bhxh-66",
+        "enabled": true,
+        "group": "combo",
+        "name": "Combo gia hạn CA 33 tháng và vBHXH 10 người lao động",
+        "price": 2180000,
+        "vatNote": "(VAT theo bảng giá combo Viettel)",
+        "term": "",
+        "details": [
+          "Gói combo gia hạn đồng thời Viettel CA 33 tháng và Bảo hiểm xã hội",
+          "Số người lao động: Tối đa 10"
+        ],
+        "old": 2376200,
+        "discount": 9
+      },
+      {
+        "id": "bhxh-67",
+        "enabled": true,
+        "group": "combo",
+        "name": "Combo gia hạn CA 33 tháng và vBHXH 100 người lao động",
+        "price": 2695000,
+        "vatNote": "(VAT theo bảng giá combo Viettel)",
+        "term": "",
+        "details": [
+          "Gói combo gia hạn đồng thời Viettel CA 33 tháng và Bảo hiểm xã hội",
+          "Số người lao động: Tối đa 100"
+        ],
+        "old": 2964500,
+        "discount": 10
+      },
+      {
+        "id": "bhxh-68",
+        "enabled": true,
+        "group": "combo",
+        "name": "Combo gia hạn CA 33 tháng và vBHXH 1000 người lao động",
+        "price": 3157000,
+        "vatNote": "(VAT theo bảng giá combo Viettel)",
+        "term": "",
+        "details": [
+          "Gói combo gia hạn đồng thời Viettel CA 33 tháng và Bảo hiểm xã hội",
+          "Số người lao động: Tối đa 1000"
+        ],
+        "old": 3472700,
+        "discount": 10
+      },
+      {
+        "id": "bhxh-69",
+        "enabled": true,
+        "group": "combo",
+        "name": "Combo gia hạn CA 33 tháng và vBHXH không giới hạn NLĐ",
+        "price": 3650000,
+        "vatNote": "(VAT theo bảng giá combo Viettel)",
+        "term": "",
+        "details": [
+          "Gói combo gia hạn đồng thời Viettel CA 33 tháng và Bảo hiểm xã hội",
+          "Số người lao động: Không giới hạn"
+        ],
+        "old": 4015000,
+        "discount": 10
+      },
+      {
+        "id": "bhxh-70",
+        "enabled": true,
+        "group": "combo",
+        "name": "Combo gia hạn CA 48 tháng và vBHXH 10 người lao động",
+        "price": 2530000,
+        "vatNote": "(VAT theo bảng giá combo Viettel)",
+        "term": "",
+        "details": [
+          "Gói combo gia hạn đồng thời Viettel CA 48 tháng và Bảo hiểm xã hội",
+          "Số người lao động: Tối đa 10"
+        ],
+        "old": 2858900,
+        "discount": 13
+      },
+      {
+        "id": "bhxh-71",
+        "enabled": true,
+        "group": "combo",
+        "name": "Combo gia hạn CA 48 tháng và vBHXH 100 người lao động",
+        "price": 3020000,
+        "vatNote": "(VAT theo bảng giá combo Viettel)",
+        "term": "",
+        "details": [
+          "Gói combo gia hạn đồng thời Viettel CA 48 tháng và Bảo hiểm xã hội",
+          "Số người lao động: Tối đa 100"
+        ],
+        "old": 3442800,
+        "discount": 14
+      },
+      {
+        "id": "bhxh-72",
+        "enabled": true,
+        "group": "combo",
+        "name": "Combo gia hạn CA 48 tháng và vBHXH 1000 người lao động",
+        "price": 3608000,
+        "vatNote": "(VAT theo bảng giá combo Viettel)",
+        "term": "",
+        "details": [
+          "Gói combo gia hạn đồng thời Viettel CA 48 tháng và Bảo hiểm xã hội",
+          "Số người lao động: Tối đa 1000"
+        ],
+        "old": 4077040,
+        "discount": 13
+      },
+      {
+        "id": "bhxh-73",
+        "enabled": true,
+        "group": "combo",
+        "name": "Combo gia hạn CA 48 tháng và vBHXH không giới hạn NLĐ",
+        "price": 4202000,
+        "vatNote": "(VAT theo bảng giá combo Viettel)",
+        "term": "",
+        "details": [
+          "Gói combo gia hạn đồng thời Viettel CA 48 tháng và Bảo hiểm xã hội",
+          "Số người lao động: Không giới hạn"
+        ],
+        "old": 4706240,
+        "discount": 12
+      }
+    ],
+    "ftth": [
+      {
+        "id": "ftth-1",
+        "enabled": true,
+        "group": "static",
+        "name": "VIP200",
+        "domestic": 200,
+        "international": 5,
+        "option": "IP Tĩnh",
+        "price": 800000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "details": []
+      },
+      {
+        "id": "ftth-2",
+        "enabled": true,
+        "group": "static",
+        "name": "VIP500",
+        "domestic": 500,
+        "international": 10,
+        "option": "IP Tĩnh",
+        "price": 1900000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "details": []
+      },
+      {
+        "id": "ftth-3",
+        "enabled": true,
+        "group": "static",
+        "name": "VIP600",
+        "domestic": 600,
+        "international": 30,
+        "option": "IP Tĩnh",
+        "price": 6600000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "details": []
+      },
+      {
+        "id": "ftth-4",
+        "enabled": true,
+        "group": "static",
+        "name": "F90N",
+        "domestic": 120,
+        "international": 4,
+        "option": "IP Động",
+        "price": 440000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "details": []
+      },
+      {
+        "id": "ftth-5",
+        "enabled": true,
+        "group": "static",
+        "name": "F90N BASIC",
+        "domestic": 120,
+        "international": 2,
+        "option": "IP Tĩnh",
+        "price": 660000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "details": []
+      },
+      {
+        "id": "ftth-6",
+        "enabled": true,
+        "group": "static",
+        "name": "F90N PLUS",
+        "domestic": 120,
+        "international": 6,
+        "option": "IP Tĩnh",
+        "price": 880000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "details": []
+      },
+      {
+        "id": "ftth-7",
+        "enabled": true,
+        "group": "static",
+        "name": "F200N",
+        "domestic": 200,
+        "international": 5,
+        "option": "IP Tĩnh",
+        "price": 1100000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "details": []
+      },
+      {
+        "id": "ftth-8",
+        "enabled": true,
+        "group": "static",
+        "name": "F200N BASIC",
+        "domestic": 500,
+        "international": 10,
+        "option": "IP Tĩnh",
+        "price": 1900000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "details": []
+      },
+      {
+        "id": "ftth-9",
+        "enabled": true,
+        "group": "static",
+        "name": "F200N PLUS",
+        "domestic": 600,
+        "international": 30,
+        "option": "IP Tĩnh",
+        "price": 6600000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "details": []
+      },
+      {
+        "id": "ftth-10",
+        "enabled": true,
+        "group": "static",
+        "name": "F300N",
+        "domestic": 120,
+        "international": 4,
+        "option": "IP Động",
+        "price": 440000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "details": []
+      },
+      {
+        "id": "ftth-11",
+        "enabled": true,
+        "group": "static",
+        "name": "F300N BASIC",
+        "domestic": 120,
+        "international": 2,
+        "option": "IP Tĩnh",
+        "price": 660000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "details": []
+      },
+      {
+        "id": "ftth-12",
+        "enabled": true,
+        "group": "static",
+        "name": "F300N PLUS",
+        "domestic": 300,
+        "international": 30,
+        "option": "IP Tĩnh",
+        "price": 9900000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "details": []
+      },
+      {
+        "id": "ftth-13",
+        "enabled": true,
+        "group": "static",
+        "name": "F500N BASIC",
+        "domestic": 500,
+        "international": 40,
+        "option": "IP Tĩnh",
+        "price": 13200000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "details": []
+      },
+      {
+        "id": "ftth-14",
+        "enabled": true,
+        "group": "static",
+        "name": "F500N PLUS",
+        "domestic": 500,
+        "international": 50,
+        "option": "IP Tĩnh",
+        "price": 17600000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "details": []
+      },
+      {
+        "id": "ftth-15",
+        "enabled": true,
+        "group": "dynamic",
+        "name": "PRO1",
+        "domestic": 400,
+        "international": 2,
+        "option": "Không",
+        "price": 350000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "details": []
+      },
+      {
+        "id": "ftth-16",
+        "enabled": true,
+        "group": "dynamic",
+        "name": "PRO2",
+        "domestic": 500,
+        "international": 5,
+        "option": "Không",
+        "price": 500000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "details": []
+      },
+      {
+        "id": "ftth-17",
+        "enabled": true,
+        "group": "dynamic",
+        "name": "MESHPRO1",
+        "domestic": 400,
+        "international": 2,
+        "option": "1",
+        "price": 440000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "details": []
+      },
+      {
+        "id": "ftth-18",
+        "enabled": true,
+        "group": "dynamic",
+        "name": "MESHPRO2",
+        "domestic": 500,
+        "international": 5,
+        "option": "2",
+        "price": 600000,
+        "vatNote": "(Đã bao gồm VAT)",
+        "details": []
+      }
+    ]
+  },
+  "additionalInterests": [
+    {
+      "id": "ftth-home",
+      "name": "FTTH - Internet Hộ gia đình"
+    },
+    {
+      "id": "tv360",
+      "name": "Truyền hình Viettel TV360"
+    },
+    {
+      "id": "home-camera",
+      "name": "Home Camera Viettel"
+    },
+    {
+      "id": "sim-data",
+      "name": "SIM Data 5G"
+    }
+  ]
+}
