@@ -125,9 +125,10 @@ function renderPricing($:Document, service:Service, plans:Plan[]) {
       card.append(quoteButton($,plan));
     } else if(service==="ca"){
       card.addClass("ca-price-pack").append($("<p class='ca-price-amount'>").text(priceText(plan.price)),$("<small class='price-vat-note'>").text(plan.vatNote));
-      if(plan.details[0])card.append($("<p class='ca-price-description'>").text(plan.details[0]));
+      if(plan.details[0])card.append($("<p class='ca-price-description'>").text(planDetail(plan.details[0],plan,service)));
       const lines=$("<ul>");
       plan.details.slice(1).filter(Boolean).forEach(text=>lines.append($("<li>").text(planDetail(text,plan,service))));
+      if(plan.term&&!plan.details.some(text=>text.startsWith("Thời gian sử dụng:")))lines.append($("<li>").text("Thời gian sử dụng: "+plan.term));
       card.append(lines,quoteButton($,plan));
     } else {
       const prefix={contract:"vc",invoice:"si",bhxh:"bh"}[service];
